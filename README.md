@@ -1,4 +1,6 @@
-# smartShoeRepo
+# Smart Shoe Repo
+
+![Discord Channel](https://avatars3.githubusercontent.com/u/1965106?s=16&v=4) [Discord Chat Channel](https://discord.gg/S9uT74G)
 
 #### A repo for your smart shoe
 
