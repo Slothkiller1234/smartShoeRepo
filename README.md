@@ -25,3 +25,6 @@
 	
 	#include "smartShoe.h"
 	
+   After you have included the repo, you may look through smartShoe.cpp for the given functions. Remember you can always create your own.
+   
+	
