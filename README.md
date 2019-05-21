@@ -19,3 +19,12 @@
 	*Note, I am using arduino 1.8.9
 
 ### Using the repo
+	
+   In order to use the repo, you must first include it in your arduino sketch.
+	
+	
+	#include "smartShoe.h"
+	
+   After you have included the repo, you may look through smartShoe.cpp for the given functions. Remember you can always create your own.
+   
+	
