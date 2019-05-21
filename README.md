@@ -31,8 +31,8 @@
    
    Some example functions however are:
    
-	```
+	
 	smart_shoe.say()
 	smart_shoe_pin()
 	etc...
-	```
+	
