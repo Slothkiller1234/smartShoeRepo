@@ -35,4 +35,7 @@
 	smart_shoe.say()
 	smart_shoe_pin()
 	etc...
-	
+
+### Aknowledgements
+
+   Special thanks to NASA for granting access to their student satelite, as well as Mike and Scott for meeting with me.
