@@ -1,5 +1,6 @@
 # smartShoeRepo
-	#### A repo for your smart shoe
+
+#### A repo for your smart shoe
 
 ### Installing
 
