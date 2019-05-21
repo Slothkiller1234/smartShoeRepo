@@ -1,4 +1,4 @@
-# smartShoeRepo
+# Smart Shoe Repo
 
 #### A repo for your smart shoe
 
