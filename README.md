@@ -20,8 +20,8 @@
 
 ### Using the repo
 	
-	In order to use the repo, you must first include it in your arduino sketch.
+   In order to use the repo, you must first include it in your arduino sketch.
 	
-	
-	//#include "smartShoe.h"
-	
+	```
+	#include "smartShoe.h"
+	```
