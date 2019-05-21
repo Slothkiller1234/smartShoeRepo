@@ -8,8 +8,6 @@
 *.lo
 *.o
 *.obj
-*.ym
-*.md
 
 # Precompiled Headers
 *.gch
