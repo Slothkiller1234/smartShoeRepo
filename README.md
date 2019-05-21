@@ -1,7 +1,7 @@
 # smartShoeRepo
-A repo for your smart shoe
+	#### A repo for your smart shoe
 
-# Installing
+### Installing
 
   Start by cloning the repo to your disk
 
