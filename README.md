@@ -1,5 +1,7 @@
 # Smart Shoe Repo
 
+![Discord Channel](https://avatars3.githubusercontent.com/u/1965106?s=16&v=4) [Help Channel](https://discord.gg/S9uT74G)
+
 #### A repo for your smart shoe
 
 ### Installing
@@ -27,4 +29,10 @@
 	
    After you have included the repo, you may look through smartShoe.cpp for the given functions. Remember you can always create your own.
    
+   Some example functions however are:
+   
+	
+	smart_shoe.say()
+	smart_shoe_pin()
+	etc...
 	
